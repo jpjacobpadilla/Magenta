@@ -14,7 +14,7 @@
 <h3 align="center">How do you use Magenta?</h3>
 
 1. Clone the project to your computer
-2. Open the `index.html` file in a browser (ideally Google Chrome)
+2. Open the `index.html` file in Google Chrome
 3. Type in some code and save the image!
 
 <br>
