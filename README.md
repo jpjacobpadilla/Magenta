@@ -20,5 +20,5 @@
 <br>
 
 <p align="center">
-    <img src="images/example-usage.jpg">
+    <img src="images/example-usage.jpg" width=700px>
 </p>
