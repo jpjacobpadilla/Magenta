@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="logo.png">
+    <img src="images/logo.png">
 </p>
 
 <h3 align="center">Create stunning code snippets to share on social media</h3>
 <br>
 
 <p align="center">
-  <img src="example-1.png" alt="Example 1" width="30%">
-  <img src="example-2.png" alt="Example 2" width="30%">
-  <img src="example-3.png" alt="Example 3" width="30%">
+  <img src="images/example-1.png" alt="Example 1" width="30%">
+  <img src="images/example-2.png" alt="Example 2" width="30%">
+  <img src="images/example-3.png" alt="Example 3" width="30%">
 </p>
 
 <h3 align="center">How do you use Magenta?</h3>
@@ -20,5 +20,5 @@
 <br>
 
 <p align="center">
-    <img src="example-usage.jpg">
+    <img src="images/example-usage.jpg">
 </p>
